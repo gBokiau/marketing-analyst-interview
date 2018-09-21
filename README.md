@@ -23,7 +23,7 @@ Your response to this test should consist of two elements: an executive summary 
 Any of the following approaches and formats are accepted, however please stick to **one only**:
 
 -	Set up your analysis in Microsoft Excel, and clearly label all your tables, sheets, and graphs so that we understand their purpose
--	Perform your analysis in a Jupyter notebook, with either Python or R, and send us the .ipynb file. You can use Microsoft’s free notebook services, available at https://notebook.azure.com, and download your finished document.
+-	Perform your analysis in a Jupyter notebook, with either Python or R, and send us the .ipynb file. You can use Microsoft’s free notebook services, available at https://notebooks.azure.com, and download your finished document.
 -	Provide a well-documented R script that you are confident we will be able to run
 -	Provide us with a Power BI report. This can be downloaded as a free tool here: https://powerbi.microsoft.com/en-us/pricing/
 -	Perform your analysis in other statistical or BI software (SPSS, Stata, Qlik, etc.) and document the steps and outcomes in a separate document (this can be a Word document, or a Latex file/pdf)
